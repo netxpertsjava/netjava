@@ -3,3 +3,4 @@ System.out.println("I am learning Java.");
 System.out.println("It is awesome!");
 double myDouble = 9.78d;
 int maxScore = 500;
+int maxScore = 500;
